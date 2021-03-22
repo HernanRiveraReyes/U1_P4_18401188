@@ -11,7 +11,7 @@ import javax.swing.table.DefaultTableModel;
 /**
  *
  * @author chrr4
- */
+ */--
 public class Ve extends javax.swing.JFrame {
     String[] d = new String[]{"","",""};
     DefaultTableModel m = new DefaultTableModel(){
