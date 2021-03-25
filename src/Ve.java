@@ -22,7 +22,7 @@ public class Ve extends javax.swing.JFrame {
     
 
     /**
-     * Creates new form Ve
+     * Creates new form Vea
      */
     public Ve() {
         initComponents();
